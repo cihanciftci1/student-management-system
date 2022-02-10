@@ -4,6 +4,8 @@ It's a simple student management system with Java Spring Boot and Thymeleaf.
 
 I don't know too much about frontend at the moment. So the html codes are amateur work.
 
+There is a Many-to-One connection between students and classrooms databases.
+
 # Main Page
 ![1](https://user-images.githubusercontent.com/72259867/153417949-6543b342-5179-4df7-a1b6-6339f1ccd592.png)
 # Update Student
